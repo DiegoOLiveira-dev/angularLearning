@@ -145,3 +145,5 @@ Dependências dos pacotes que devem ficar em package.json:
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+
+Projeto do curso de angular Cod3rs
